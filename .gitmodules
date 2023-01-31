@@ -1,0 +1,30 @@
+[submodule "01-hello-world"]
+	path = 01-hello-world
+	url = https://github.com/ruizemanuel/hello-world-react-Rolling
+[submodule "alta-de-peliculas"]
+	path = alta-de-peliculas
+	url = https://github.com/ruizemanuel/alta-de-peliculas-react-Rolling
+[submodule "blog-de-recetas"]
+	path = blog-de-recetas
+	url = https://github.com/ruizemanuel/blog-de-recetas-react-Rolling
+[submodule "formulario-simple"]
+	path = formulario-simple
+	url = https://github.com/ruizemanuel/formulario-simple-react-Rolling
+[submodule "lista-de-empleados"]
+	path = lista-de-empleados
+	url = https://github.com/ruizemanuel/lista-de-empleados-react-Rolling
+[submodule "lista-de-tareas"]
+	path = lista-de-tareas
+	url = https://github.com/ruizemanuel/lista-de-tareas-react-Rolling
+[submodule "pacientes-de-veterinaria"]
+	path = pacientes-de-veterinaria
+	url = https://github.com/ruizemanuel/pacientes-de-veterinaria-react-Rolling
+[submodule "paleta-de-colores"]
+	path = paleta-de-colores
+	url = https://github.com/ruizemanuel/paleta-de-colores-react-Rolling
+[submodule "web-del-clima"]
+	path = web-del-clima
+	url = https://github.com/ruizemanuel/web-del-clima-React-Rolling
+[submodule "web-de-noticias"]
+	path = web-de-noticias
+	url = https://github.com/ruizemanuel/web-noticias-react-Rolling
